@@ -553,24 +553,3 @@ while(True):
                         print("enter the volume id")
                         vid=input()
                         os.system("aws ec2 attach-volume --volume-id {0} --instance-id {1} --device /dev/sdf".format(vid,iid))
-
-
-
-
-
-
-                        
-
-
-                          
-
-
-                                    
-
-                                        
-
-
-
-
-                            
-
