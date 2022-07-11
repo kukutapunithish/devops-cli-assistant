@@ -4,4 +4,4 @@ users in the following four technologies: LINUX OS, Docker, AWS cloud, and Hadoo
 following technologies to use this application. All they need to do is choose their requirement from the given menu. The project could increase
 the efficiency of the user by at least 20%.
 Step1: hello
-Step2: World
+\nStep2: World
