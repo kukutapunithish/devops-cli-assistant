@@ -1,4 +1,4 @@
-# DevOps-CLI-Assistant
+# devops-cli-assistant
 DevOps-CLI-Assistant is a command line tool written in Python that uses the AWS CLI to execute AWS commands. It provides simple operations for Docker, Linux, AWS, and Hadoop.
 
 The tool is designed to help developers and DevOps engineers with cloud operations. It can be used to build, run, and manage Docker containers; manage Linux systems; work with AWS services; and use Hadoop.  
